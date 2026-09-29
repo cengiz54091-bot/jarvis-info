@@ -5,6 +5,12 @@
         "source": "github",
         "repo": "thedotmack/claude-mem"
       }
+    },
+    "ui-ux-pro-max-skill": {
+      "source": {
+        "source": "github",
+        "repo": "nextlevelbuilder/ui-ux-pro-max-skill"
+      }
     }
   },
   "enabledPlugins": {
